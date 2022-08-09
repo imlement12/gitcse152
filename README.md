@@ -1,4 +1,8 @@
 # gitcse152
 Class practice
 
-We are waiting for the Requirement and analysis phase 
+
+We are sorry for the delay
+
+Hope our next phase take on the project
+
